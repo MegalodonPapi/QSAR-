@@ -1,4 +1,4 @@
-# QSAR Modeling Tools
+# QSAR Modeling Pre-process Tools
 
 Welcome to the QSAR Modeling GitHub repository! This repository contains a collection of useful tools for Quantitative Structure-Activity Relationship (QSAR) modeling. Whether you're a chemist, biologist, or data scientist, these tools will assist you in building and analyzing predictive models for chemical and biological activities. Below are the tools that have been added to this repository:
 
