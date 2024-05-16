@@ -6,7 +6,7 @@ This repository contains a collection of useful tools for Quantitative Structure
 
 ### 1. Feature Selection in Python
 
-- Folder: `feature_selection_python/`
+- File: `feature_selection_python/`
 - Description: This toolset provides Python scripts and Jupyter notebooks for feature selection in QSAR modeling. Feature selection is a crucial step in building robust predictive models. These scripts implement various feature selection algorithms and techniques to help you choose the most relevant features for your modeling tasks.
 
 ### 2. Feature Selection in R
@@ -21,7 +21,7 @@ This repository contains a collection of useful tools for Quantitative Structure
 
 ### 4. Create SMILES for Chemical Compounds in Python
 
-- Folder: `create_smiles_python/`
+- File: `create_smiles_python/`
 - Description: In this section, you'll find Python scripts and examples for generating SMILES representations of chemical compounds. SMILES strings are concise textual notations that represent the structure of molecules. These scripts demonstrate how to create SMILES for various chemical compounds using computational methods.
 
 ## Usage
